@@ -32,5 +32,6 @@ pip install -r requirements.txt
 
 ### **Paso 4:**
 # Ejecuta el script
-Python youtubeapi.py
 ```bash
+Python youtubeapi.py
+```
