@@ -21,7 +21,7 @@ Herramienta de línea de comandos para interactuar con la API de YouTube. Permit
 ### **Paso 2:**
 # Accede al directorio del proyecto.
 ```bash
-cd youtube
+cd youtube_tools
 ```
 
 ### **Paso 3:**
