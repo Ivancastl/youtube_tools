@@ -9,7 +9,7 @@ Herramienta de línea de comandos para interactuar con la API de YouTube. Permit
 - 🎥 Buscar videos por palabras clave
 
 ## ⚙️ Requisitos
-- Python 3.8+
+- Python 
 - API Key de YouTube (obtén una [aquí](httpsconsole.cloud.google.comapiscredentials))
 
 ## 🛠️ Instalación
