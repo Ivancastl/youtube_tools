@@ -10,7 +10,7 @@ Herramienta de línea de comandos para interactuar con la API de YouTube. Permit
 
 ## ⚙️ Requisitos
 - Python 
-- API Key de YouTube (obtén una [aquí](httpsconsole.cloud.google.comapiscredentials))
+- API Key de YouTube 
 
 ## 🛠️ Instalación
 1. Clona el repositorio
