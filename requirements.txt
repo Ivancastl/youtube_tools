@@ -1,2 +1,4 @@
-google-api-python-client
+cryptography
 youtube-transcript-api
+google-api-python-client
+pyfiglet
